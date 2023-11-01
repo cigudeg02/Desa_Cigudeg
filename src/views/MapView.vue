@@ -79,7 +79,7 @@ export default {
       show: true,
       enableTooltip: true,
       zoom: 15,
-      center: [-3.28561, 120.97431],
+      center: [-6.553259, 106.536068],
       layerData: [],
       geojson: null,
       fillColor: "#0CF9E0",
@@ -101,7 +101,7 @@ export default {
     async loadSomeGeoJson() {
       const nextIndex = this.layerData.length;
 
-      const response = await fetch("/ds_nyule.geojson");
+      const response = await fetch("/Batas_RW_Cigudeg_FeaturesToJ.json");
       const data = await response.json();
 
       console.log(data);
