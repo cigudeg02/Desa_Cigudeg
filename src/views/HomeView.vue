@@ -15,7 +15,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa Cigudeg</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya masyarakat Desa Cigudeg yang beriman dan bertaqwa serta mempunyai kepribadian sosial yang tinggi”
+        “Nata kota bebenah lembur ngawangun bareng sejahtera sarerea”
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
